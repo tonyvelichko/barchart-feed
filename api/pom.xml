@@ -34,6 +34,12 @@
 			<artifactId>barchart-util-concurrent</artifactId>
 			<version>[3,4)</version>
 		</dependency>
+		
+		<dependency>
+            <groupId>com.netflix.rxjava</groupId>
+            <artifactId>rxjava-core</artifactId>
+            <version>[0.14-SNAPSHOT,0.15-SNAPSHOT)</version>
+        </dependency>
 
 	</dependencies>
 
